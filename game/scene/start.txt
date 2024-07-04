@@ -1,0 +1,12 @@
+pixiPerform:snow;
+; 初始场景，以及特效演示
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:你好|欢迎来到 SDNU的世界 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:R.jpg -next -unlockname=山东师范大学长清湖校区;
+unlockCg:R.jpg -name=山东师范大学长清湖校区;
+changeFigure:stand.png -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+小欣:欢迎新同学，这是咱们学校的学长制作的小游戏，可以从中了解学校的各种信息。 -v1-001.wav -fontSize=default;
+请选择模式 -v1-002.wav -fontSize=default;
+choose:开学报道流程:start-scholl-life.txt|地图:map.txt|关于生活:life.txt|关于出行:walk.txt|故事模式:story.txt;

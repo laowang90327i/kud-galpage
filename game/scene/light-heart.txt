@@ -1,0 +1,14 @@
+changeBg:light-heart.jpg -next;
+这里便是明心湖 -v1-075.wav -fontSize=default;
+风景是不是还不错 -v1-076.wav -fontSize=default;
+changeBg:light-heart-2.jpg -next;
+这块其实还养了一些小动物，|给大家介绍一下，这是三位学长hhh -v1-077.wav -fontSize=default;
+changeBg:light-heart-3.jpg -next;
+这块风景可以说是非常不错 -v1-078.wav -fontSize=default;
+changeBg:light-heart-pq.png -next;
+等到晚上的时候还会有音乐喷泉 -v1-079.wav -fontSize=default;
+现在是不是更期待开学了呢？ -v1-080.wav -fontSize=default;
+changeBg:light-heart-last.png;
+总之关于明心湖的介绍到此结束 -v1-081.wav -fontSize=default;
+下面回到上个选项 -v1-082.wav -fontSize=default;
+changeScene:menu.txt
